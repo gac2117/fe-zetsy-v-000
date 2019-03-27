@@ -12,6 +12,7 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -28,3 +29,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h2 {
+	color: rgb(111, 127, 122);
+	font-size: 2em;
+}
